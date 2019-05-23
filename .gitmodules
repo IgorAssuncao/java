@@ -1,0 +1,3 @@
+[submodule "java_fundamentals"]
+	path = java_fundamentals
+	url = https://github.com/IgorAssuncao/java_fundamentals.git
