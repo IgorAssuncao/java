@@ -1,3 +1,6 @@
 [submodule "java_fundamentals"]
 	path = java_fundamentals
 	url = https://github.com/IgorAssuncao/java_fundamentals.git
+[submodule "java_oop"]
+	path = java_oop
+	url = https://github.com/IgorAssuncao/java_oop.git
