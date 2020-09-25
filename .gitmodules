@@ -1,9 +1,12 @@
 [submodule "java_fundamentals"]
 	path = java_fundamentals
 	url = https://github.com/IgorAssuncao/java_fundamentals.git
+	branch = master
 [submodule "java_oop"]
 	path = java_oop
 	url = https://github.com/IgorAssuncao/java_oop.git
+	branch = master
 [submodule "java_web"]
 	path = java_web
 	url = https://github.com/IgorAssuncao/java_web.git
+	branch = master
